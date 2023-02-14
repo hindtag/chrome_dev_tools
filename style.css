@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+li:hover{
+    background-color: firebrick;
+}
